@@ -1,0 +1,12 @@
+1. open cmd
+2. write following commands
+3. javac ChatMessage.java
+4. javac ServerGUI.java
+5. javac ClientGUI.java
+6. javac Server.java
+7. javac Client.java
+8. java ServerGUI
+	click on start 
+9. open another cmd
+10. java ClientGUI 
+11. Now we can connect to different people by opening as many Command Prompt as we can..
