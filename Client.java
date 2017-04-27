@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 /*
- * The Client that can be run both as a console or a GUI
+ * The Client that can be run as both a console or a GUI
  */
 public class Client  {
 
