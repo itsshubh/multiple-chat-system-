@@ -1,4 +1,4 @@
-1. open cmd
+1. open Command Prompt
 2. write following commands
 3. javac ChatMessage.java
 4. javac ServerGUI.java
